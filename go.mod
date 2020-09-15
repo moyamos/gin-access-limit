@@ -1,4 +1,4 @@
-module github.com/bu/gin-access-limit
+module github.com/moyamos/gin-access-limit
 
 go 1.14
 
